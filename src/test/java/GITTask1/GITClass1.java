@@ -33,5 +33,9 @@ private void kijiji() {
 private void guru() {
 	System.out.println("good movie");
 }
+@Test
+private void hhh() {
+	System.out.println("ll");
+}
 
 }
