@@ -36,4 +36,15 @@ public void m7()
 {
 	System.out.println("m7 by Jagades");
 }
+@Test
+public void m8()
+{
+	System.out.println("m8 by Jagades");
+}
+@Test
+public void m9()
+{
+	System.out.println("m9 by Jagades");
+}
+
 }
