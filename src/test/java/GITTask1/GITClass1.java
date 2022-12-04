@@ -29,5 +29,9 @@ private void ramesh() {
 private void kijiji() {
 	System.out.println("shop");
 }
+@Test
+private void guru() {
+	System.out.println("good movie");
+}
 
 }
