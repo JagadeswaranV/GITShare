@@ -45,6 +45,20 @@ public void m8()
 public void m9()
 {
 	System.out.println("m9 by Jagades");
+private void ramesh() {
+	System.out.println("khan");
+}
+@Test
+private void kijiji() {
+	System.out.println("shop");
+}
+@Test
+private void guru() {
+	System.out.println("good movie");
+}
+@Test
+private void hhh() {
+	System.out.println("ll");
 }
 
 }
