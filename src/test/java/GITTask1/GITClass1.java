@@ -21,4 +21,13 @@ public void m3() {
 private void m4() {
 	System.out.println("m4 by siva");
 }
+@Test
+private void ramesh() {
+	System.out.println("khan");
+}
+@Test
+private void kijiji() {
+	System.out.println("shop");
+}
+
 }
