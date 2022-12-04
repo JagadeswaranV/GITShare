@@ -17,4 +17,8 @@ public void m2() {
 public void m3() {
 	System.out.println("m3 by siva");
 }
+@Test
+private void m4() {
+	System.out.println("m4 by siva");
+}
 }
